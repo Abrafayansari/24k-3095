@@ -1,7 +1,5 @@
 # Hi there 👋 Its Abdul Rafay
 
-this is feature branch 
-
 
  🔭 I’m currently working on MERN
 
@@ -20,5 +18,4 @@ this is feature branch
  😄 Pronouns: Rafay
 
 
-
-this is feature branch 
+#PF_LAB_3 "introduction to C language" 
